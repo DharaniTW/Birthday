@@ -90,7 +90,7 @@ function count10(callback) {
 function count(callback) {
   let num = 0;
   setTimeout(() => {
-    countEl.innerHTML = "BALAMURUGAN ✨";
+    countEl.innerHTML = "BALAMURUGAN ANNA ✨";
     console.log(countEl.innerHTML);
     callback();
   }, 1000);
